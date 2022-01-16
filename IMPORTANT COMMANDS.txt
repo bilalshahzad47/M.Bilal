@@ -1,0 +1,3 @@
+SHIFT + ALT + F => CODE FORMAT--- right click then format document
+WINDOWS + v => SHOW CLIPBOARD HISTORY
+CONTROL + ? => COMMENT
